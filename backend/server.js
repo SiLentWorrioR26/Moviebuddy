@@ -47,7 +47,7 @@ const User = mongoose.model('User', userSchema);
 const PORT = process.env.PORT || 8000;
 
 app.get('/', (req, res) => {
-    res.send('Hello from Thala');
+    res.send('Hello from SiLentWorrioR26');
 });
 
 // Register endpoint
